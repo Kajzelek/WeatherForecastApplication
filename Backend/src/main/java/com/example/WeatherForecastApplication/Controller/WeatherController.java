@@ -21,6 +21,4 @@ public class WeatherController {
     public ResponseEntity<List<WeatherDto>> getWeeklyWeather(@RequestParam Double latitude, @RequestParam Double longitude){
         return ResponseEntity.ok(weatherService.getWeeklyWeather(latitude, longitude));
     }
-
-
 }
