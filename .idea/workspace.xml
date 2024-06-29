@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26f22ae7-8436-497d-b269-7d08fe4216f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Programowanie/C++/Doubly-linked-list-with-assertion/Doubly-linked-list-with-assertion/ConsoleApplication1/ConsoleApplication1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../STRONKI GRELA/TI2024_LAB2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../STRONKI GRELA/TI2024_LAB2/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../STRONKI GRELA/TI2024_LAB2/Kwadratowe2.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../STRONKI GRELA/TI2024_LAB2/Kwadratowe2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../STRONKI GRELA/TI2024_LAB2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../STRONKI GRELA/TI2024_LAB2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../STRONKI GRELA/TI2024_LAB2/kwadratowe.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../STRONKI GRELA/TI2024_LAB2/kwadratowe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../STRONKI GRELA/TI2024_LAB2/styl.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../STRONKI GRELA/TI2024_LAB2/styl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/front-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/front-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/front-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/front-app/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,11 +14,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2gY1QbsarCo1Pl1NDmHnm0ChdBO" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,15 +30,31 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Studia pliki/Projekty/WeatherForecastApplication/Backend",
+    "last_opened_file_path": "C:/Users/kamil/Desktop/Patryk/WeatherForecastApplication/Backend",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="WeatherForecastApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="WeatherForecastApplication" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
       </set>
     </attachedChunks>
   </component>
@@ -55,6 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1715859683992</updated>
       <workItem from="1715859685049" duration="248000" />
+      <workItem from="1719662218485" duration="96000" />
     </task>
     <servers />
   </component>
